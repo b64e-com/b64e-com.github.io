@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Mooli&display=swap');
+
+body{
+    background-image: url("./ios.17.png");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+    align-items: center;
+    justify-content: center;
+}
+
+.coords{
+    font-family: 'Mooli', sans-serif;
+    margin-left: 40%;
+    margin-top: 10%;
+    color: darkslategrey;
+    transition: 1s;
+}:hover{
+    color: #ffffff56;
+}
+
+.coords1{
+    font-family: 'Mooli', sans-serif;
+    margin-left: 50%;
+    margin-top: 10%;
+    color: darkslategrey;
+    transition: 1s;
+}:hover{
+    color: #2b2c2e;
+}
+
+.btn{
+    border: 4px #2b2c2e;
+    width: 20px;
+    height: 20px;
+    border-radius: 2px;
+    background-color: #2b2c2e2a;
+}
+.secret{
+    margin-left: 30%;
+}
